@@ -67,21 +67,6 @@ main{
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
 
-/*.cardzsz h3{
-    min-height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.cardzsz p{
-    min-height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}*/
-
 .cardzsz img{
     height: 500px;
 }
