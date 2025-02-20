@@ -73,13 +73,12 @@ main{
 
 .cardzsz button{
     margin-top: auto;
-    padding: 10px;
+    padding: 20px;
     background-color: rgb(84, 33, 33);
     color: white;
     border: none;
     cursor: pointer;
     border-radius: 5px;
-
 }
 
 .cardzsz button:hover{
